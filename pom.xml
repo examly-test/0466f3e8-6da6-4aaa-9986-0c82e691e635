@@ -9,8 +9,8 @@
         <maven.compiler.target>8</maven.compiler.target>
         <sonar.organization>examly-test</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.sources>angularapp/src,public/</sonar.sources>
-        <sonar.tests>pupptter/,puppeteer/</sonar.tests>
+        <sonar.sources>public/</sonar.sources>
+        <sonar.tests>puppeteer/</sonar.tests>
         <sonar.java.binaries>target</sonar.java.binaries>
     </properties>
     <dependencies>
